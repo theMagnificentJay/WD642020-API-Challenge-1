@@ -1,0 +1,38 @@
+#masthead {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 10px;
+    text-shadow: 1px 5px 5px grey;
+}
+
+.nav {
+    background-color: lightgray;
+    border-bottom: 1px solid darkgray;
+    border-top: 1px solid darkgray;
+    box-shadow: 0px 10px 20px black;
+}
+
+.nav-link {
+    color: red;
+}
+
+
+.ClassContainer {
+    margin:5%;
+    background-color: lightgray;
+    border-bottom: 1px solid darkgray;
+    border-top: 1px solid darkgray;
+    box-shadow: 0px 10px 20px black;
+}
+
+.ClassContainer h2, h5 {
+    color:red;
+    text-shadow: 1px 5px 5px grey;
+}
+
+.classInfo {
+    padding:2%;
+}
